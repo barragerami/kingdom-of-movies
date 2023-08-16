@@ -1,0 +1,6 @@
+.poster{
+    width:150px;
+    display: flex;
+    justify-content: right;
+    padding-left: 5%;
+}
